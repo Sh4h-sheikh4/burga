@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+an AND gate takes 2 inputs and the result is outputted to the LED. 
 
 ## How to test
 
-Explain how to use your project
+Input binary values with the switches and observe the output via the LED 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED and Switches. 
